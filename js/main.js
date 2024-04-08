@@ -1,6 +1,4 @@
 
-// alert("hey gaurav there!!")
-
 const btn = document.querySelector(".btn")
 
 
